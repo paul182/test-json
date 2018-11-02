@@ -15,8 +15,8 @@
       "errors":
           [
               {
-              "errorCode":"PROCUREMENT_SYSTEM_NAME_ALREADY_EXISTS",
-              "errorKey":"PROCUREMENT_SYSTEM_NAME_ALREADY_EXISTS",
+              "errorCode":"PROCUREMENT_SYSTEM_NAME_ALREADY_",
+              "errorKey":"PROCUREMENT_SYSTEM_NAME_ALREADY_",
               "errorLevel":"SEVERE",
               "errorMessage":"EProcurement System name already exists. Please enter a unique eProcurement System name."
               }
